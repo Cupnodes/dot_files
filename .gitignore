@@ -1,0 +1,12 @@
+.bash_history
+.bash_logout
+.bashrc.pre-oh-my-bash
+.landscape
+.local
+.motd_shown
+.osh-update
+.sudo_as_admin_successful
+.profile
+.viminfo
+.sdirs
+.config/nvim/plugged
