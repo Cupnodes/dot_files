@@ -1,4 +1,5 @@
 # My Vim Configurations
+
 1. Vim Plug
 2. Gruvbox theme
 3. Relative lines
@@ -10,4 +11,5 @@
 
 `
 curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs \
- https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim`
+ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+`
